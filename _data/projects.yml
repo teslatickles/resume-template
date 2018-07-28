@@ -1,16 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Hardware and software project - SCALD
+- project: Super Cat Automaton LASER Defense (SCALD)
+  role: Creator & Sole Developer
+  duration: 2018 to present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: SCALD is a portable LASER toy for pets (ie cats) that can be controlled by either: a) PS DS4 constroller b) PS DS3 constroller c) keyboard. It has many features and can be ran as a command line tool or gui app.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Hardware and Software project - DIY TV Remote
+- project: DIY TV Remote Control 
+  role: Creator, Designer, & Sole Developer
+  duration: 2016 to present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: This DIY project came to fruition in response to a problem at home: my roommate/best friend didn't have a remote to his Samsung tv. So, I decided it would be "best" to build one using a microcontroller,
+   buttons, infrared LED, and some arduino code. It would end up with my making one for my Sony television (I like its simplicity and aesthetic), with it evolving over time. The first iteration was bulkier, with the
+   microcontroller being an Adafruit Trinket Pro. This was not only bulky, but completely unnecessary considering the requirements while also wasting power. The solution was using an ATtiny85 microcontroller chip,
+   flashing the ATtiny with a firmware that allows a software serial connection to be allowed, then flashing the actually software to the ATtiny85 using an Arduino Uno with a custom circuit for flashing the chip.
