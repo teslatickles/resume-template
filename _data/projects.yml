@@ -1,15 +1,15 @@
-# Projects
+Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Hardware and software project - SCALD
+Hardware and software project - SCALD
 - project: Super Cat Automaton LASER Defense (SCALD)
   role: Creator & Sole Developer
   duration: 2018 to present
   # url: "#"
   description: SCALD is a portable LASER toy for pets (ie cats) that can be controlled by either: a) PS DS4 constroller b) PS DS3 constroller c) keyboard. It has many features and can be ran as a command line tool or gui app.
 
-# Hardware and Software project - DIY TV Remote
-- project: DIY TV Remote Control 
+Hardware and Software project - DIY TV Remote
+- project: DIY TV Remote Control
   role: Creator, Designer, & Sole Developer
   duration: 2016 to present
   # url: "#"
